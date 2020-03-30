@@ -14,3 +14,5 @@ while(True):
 	else:
 		stupid += 1
 		print("Errr hello??! You've got it wrong {0} time{1}\nTry again...".format(stupid, "" if stupid==1 else "s, dummy"))
+		
+print("Line added as part of Git set-up & testing.")
